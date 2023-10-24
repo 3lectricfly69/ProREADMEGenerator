@@ -49,10 +49,10 @@ ${installationInstructions}
 Usage Information:
 ${usageInformation}
 
-Contribution Guidelines
+Contribution Guidelines:
 ${contributionGuidelines}
 
-Test Instructions
+Test Instructions:
 ${testInstructions}
 
 `;

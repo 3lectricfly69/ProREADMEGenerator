@@ -10,9 +10,9 @@ To ensure that this program will work properly, run npm install in the command l
 Usage Information:
 Title, Description, Installation Instructions, Usage Information, Contribution Guidelines, and Test Instructions
 
-Contribution Guidelines
+Contribution Guidelines:
 Users may contribute content to the project by entering responses in the command line.
 
-Test Instructions
+Test Instructions:
 After opening a terminal in the root of the project, run node fileName.js in the command line. Then, open the generated README file where in which the messages and their given responses will display.
 
